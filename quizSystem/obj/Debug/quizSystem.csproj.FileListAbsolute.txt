@@ -1,0 +1,10 @@
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\bin\Debug\quizSystem.exe.config
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\bin\Debug\quizSystem.exe
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\bin\Debug\quizSystem.pdb
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.csproj.AssemblyReference.cache
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.Properties.Resources.resources
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.csproj.GenerateResource.cache
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.csproj.CoreCompileInputs.cache
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.exe
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.pdb
+C:\Users\AWEDI\source\repos\quizSystem\quizSystem\obj\Debug\quizSystem.Form1.resources
